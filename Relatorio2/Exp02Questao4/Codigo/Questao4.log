@@ -1,0 +1,12 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4550 -DL -O11111114 -fo20 -N"C:\Users\jards\OneDrive\Documents\Faculdade\Arquitetura\Relatorio2\Exp02Questao4\Codigo\Questao4.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\jards\OneDrive\Documents\Faculdade\Arquitetura\Relatorio2\Exp02Questao4\Codigo\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "Questao4.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	Questao4.c
+diagnostics: 69	123	Compiled Successfully	Questao4.c
+hint: 9	1164	Variable 'x' has been eliminated by optimizer	Questao4.c
+diagnostics: 0	127	All files Compiled in 125 ms	 
+hint: 0	1144	Used RAM (bytes): 16 (1%)  Free RAM (bytes): 2011 (99%)	Used RAM (bytes): 16 (1%)  Free RAM (bytes): 2011 (99%)
+hint: 0	1144	Used ROM (bytes): 324 (1%)  Free ROM (bytes): 32444 (99%)	Used ROM (bytes): 324 (1%)  Free ROM (bytes): 32444 (99%)
+diagnostics: 0	125	Project Linked Successfully	Questao4.mcppi
+diagnostics: 0	128	Linked in 47 ms	 
+diagnostics: 0	129	Project 'Questao4.mcppi' completed: 313 ms	 
+diagnostics: 0	103	Finished successfully: 09 abr 2024, 22:14:09	Questao4.mcppi
